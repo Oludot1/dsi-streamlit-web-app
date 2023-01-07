@@ -23,7 +23,7 @@ age = st.number_input(
 # gender input form
 gender = st.radio(
     label = "02. Enter the customer's gender",
-    options = ['M', 'N']
+    options = ['M', 'F']
     )
 
 
